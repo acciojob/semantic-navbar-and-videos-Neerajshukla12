@@ -20,11 +20,13 @@
     h2 {
       margin-top: 20px;
     }
-    .images {
+    .videos {
       display: flex;
       gap: 20px;
+	 
       margin-top: 10px;
     }
-    .images img {
+    .videos video {
+		  width:30%;
       border-radius: 8px;
     }
